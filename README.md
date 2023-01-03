@@ -1,7 +1,7 @@
 # Curso Git
 
 ### Tecnologias utilizadas
-Git, GitHub e HTML.
+Git, GitHub, HTML e CSS.
 
 ### Desafio
 https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages/
